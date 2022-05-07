@@ -59,6 +59,10 @@
       {
         "address": "https://rpc-meme-1.meme.sx:443/",
         "provider": "MEME Foundation"
+      },
+      {
+        "address": "https://meme-rpc.polkachu.com:443/",
+        "provider": "Polkachu"
       }
     ],
     "rest": [
