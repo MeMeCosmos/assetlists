@@ -3,7 +3,7 @@
   "chain_id": "meme-1",
   "assets": [
     {
-      "description": "MEME Token (MEME) is the native staking token of the MEME Chain",
+      "description": "Meme Token (MEME) is the native staking token of Meme Chain",
       "denom_units": [
         {
           "denom": "umeme",
